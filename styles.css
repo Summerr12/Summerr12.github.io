@@ -2,7 +2,7 @@ h1 {
   color:purple;
   text-align:center
 }
-h2,ul {
+h2,h3 {
   text-align:center
 }
 p{
@@ -32,4 +32,7 @@ ol{
 body{
   background-color: deepskyblue;
   border: 25px solid white;
+}
+h3{
+  margin:10px;
 }
